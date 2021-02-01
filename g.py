@@ -1,1 +1,1 @@
-print ('omar'*100)
+print ('opppppp'*100)
