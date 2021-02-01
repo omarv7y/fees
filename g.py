@@ -1,1 +1,0 @@
-print ('opppppp'*100)
