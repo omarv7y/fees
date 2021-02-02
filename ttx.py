@@ -12,7 +12,7 @@ s=open("checkversion/omar.txt","r")
 version=s.read()
 current-version=open("omar.txt","r").read()
 if version!=current-version:
-      os.system("rm g.py omar.txt && git clone https://github.com/omarv7y/fees.git")
+      os.system("rm ttx.py omar.txt && git clone https://github.com/omarv7y/fees.git")
       print("updated")
 else:
       print ("No Updates")
